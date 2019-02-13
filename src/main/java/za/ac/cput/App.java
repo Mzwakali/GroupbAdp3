@@ -2,6 +2,7 @@ package za.ac.cput;
 
 /**
  * Hello world!
+ * AJ, this is it?
  *
  */
 public class App 
