@@ -6,8 +6,12 @@ package za.ac.cput;
  */
 public class App 
 {
-    public String concatenate(String color1, String color2){
-
-        return color1+color2;
+    /*public static void main( String[] args )
+    {
+        System.out.println( "Hello World!" );
+    }*/
+    public int add(int x, int y) //change to addition
+    {
+        return x+y;
     }
 }
