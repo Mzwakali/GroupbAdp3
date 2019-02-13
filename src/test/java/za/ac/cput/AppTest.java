@@ -17,8 +17,8 @@ public class AppTest
     public void testConcatenate() {
         App app = new App();
 
-        String result = app.concatenate("lime","green");
+        String result = app.concatenate("Peanut","Butter");
 
-        assertEquals("limegreen", result);
+        assertEquals("PeanutButter", result);
     }
 }
